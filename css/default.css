@@ -1,0 +1,32 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+}
+body{
+	font-family: 
+	font-size: 16px;
+	color: #999;
+}
+a:hover, a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+img{
+	display: block;
+	
+}
+.flex{
+	display: flex;
+	flex-wrap: wrap;
+}
+.container{
+	width: 1000px;
+	margin: 0px auto;
+}
